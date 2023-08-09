@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyperionsolitude&label=Profile%20views&color=0e75b6&style=flat" alt="hyperionsolitude" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision & Computer Network Security**
+- 🌱 I’m currently learning **Data Science Algorithms**
 
-- 💬 Ask me about **Bash, AI, DL, NLP, C, Bash**
+- 💬 Ask me about **Bash, AI, DL, NLP, C, Bash, Computer Vision & Computer Network Security**
 
 - 📫 How to reach me **work.utkuacar@gmail.com**
 
