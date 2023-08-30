@@ -11,6 +11,8 @@
   
 - [Bachelor's Transcript](https://github.com/hyperionsolitude/CV/blob/main/Utku_Acar_Bachelor_Transcript.pdf)
 
+- [Master's Transcript](https://github.com/hyperionsolitude/CV/blob/main/Masters_Transcript.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/utkuacar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkuacar" height="30" width="40" /></a>
