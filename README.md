@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utku "Hyperion Solitude" Acar</h1>
-<h3 align="center">A Software Engineer from Turkey</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🌱 I’m currently learning **Data Science Algorithms**
 
