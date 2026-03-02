@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **work.utkuacar@gmail.com**
 
-- [CV](https://github.com/hyperionsolitude/CV/blob/main/utkucv.pdf)
+- [CV](https://github.com/hyperionsolitude/CV/blob/main/Utku_Acar_CV_Feb_2026_EN.pdf)
   
 - [Bachelor's Transcript](https://github.com/hyperionsolitude/CV/blob/main/Utku_Acar_Bachelor_Transcript.pdf)
 
