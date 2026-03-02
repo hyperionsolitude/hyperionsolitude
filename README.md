@@ -11,7 +11,7 @@
   
 - [Bachelor's Transcript](https://github.com/hyperionsolitude/CV/blob/main/Utku_Acar_Bachelor_Transcript.pdf)
 
-- [Master's Transcript](https://github.com/hyperionsolitude/CV/blob/main/Masters_Transcript.pdf)
+- [Master's Transcript](https://github.com/hyperionsolitude/CV/blob/main/Utku_Acar_Masters_Transcript.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
