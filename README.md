@@ -32,14 +32,6 @@ I'm a software engineer with deep interests in **Artificial Intelligence**, **De
 
 ---
 
-<h3>🏆 Achievements</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hyperionsolitude&theme=radical&margin-w=8&margin-h=8&no-francesca&rank=top" alt="Trophies" />
-</p>
-
----
-
 <h3>📂 Documents</h3>
 
 | Document | Link |
